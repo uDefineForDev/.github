@@ -1,6 +1,8 @@
 # ![Logo](https://udefine.net/wp-content/uploads/2024/08/03_Logo_uDefine_deliver.gif)
 
-https://udefine.net/wp-content/uploads/2024/05/uDefine_logo_reveal_FINAL-03.mp4
+
+https://github.com/user-attachments/assets/774fcea6-463b-4114-a2d5-df7ce79d975f
+
 
 # uDefine / uDefine
 
@@ -56,7 +58,7 @@ Trabajamos con empresas reconocidas como Correos, J. García Carrión, Grupo Bor
 > “Nuestra colaboración con uDefine surgió… la integración con el equipo interno fue excelente… muy productivo.” – Cervezas Alhambra   
 > “uDefine fue fundamental en la implementación de factura electrónica en Brasil… técnicos, dedicación y compromiso… resultado excelente.” – Paulo, Finance Manager, MedTech Brasil
 
--
+--
 
 We work with renowned companies such as Correos, J. García Carrión, Grupo Borges, Grupo Famosa, Random House Mondadori, Synthes, FMC, and Eurocopter.
 
